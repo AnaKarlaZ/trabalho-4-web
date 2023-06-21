@@ -1,0 +1,36 @@
+.armario {
+    width: 200px;
+    height: 350px;
+    display: inline-block;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.disponivel {
+    background-color: green;
+}
+
+.manutencao {
+    background-color: yellow;
+}
+
+.ocupado {
+    background-color: red;
+}
+
+h1,h2{
+    text-align: center;
+}
+
+.leg {
+    text-align: center;
+}
+
+.legenda {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    margin-right: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+}

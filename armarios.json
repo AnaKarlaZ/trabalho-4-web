@@ -1,0 +1,16 @@
+{
+    "armarios": [
+        {"id": 1, "estado": "disponivel"},
+        {"id": 2, "estado": "disponivel"},
+        {"id": 3, "estado": "disponivel"},
+        {"id": 4, "estado": "disponivel"},
+        {"id": 5, "estado": "disponivel"},
+        {"id": 6, "estado": "disponivel"},
+        {"id": 7, "estado": "disponivel"},
+        {"id": 8, "estado": "disponivel"},
+        {"id": 9, "estado": "disponivel"},
+        {"id": 10, "estado": "disponivel"},
+        {"id": 11, "estado": "disponivel"},
+        {"id": 12, "estado": "disponivel"}
+    ]
+  }
